@@ -1,0 +1,15 @@
+{
+  "name": "tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "servicio": "json-server --host 192.168.0.8 --watch apiMotivation.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

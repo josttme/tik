@@ -1,0 +1,12 @@
+modules/
+node_modules/
+js/*.js
+!index.js
+motivation/
+sass/
+videos/
+videos1/
+videosMe/
+api.json
+apiMotivation.json
+tiktok.json
